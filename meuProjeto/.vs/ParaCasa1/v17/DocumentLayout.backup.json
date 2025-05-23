@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2404B7D1-FCF6-4041-851B-D94FEBDBCCED}|ParaCasa1\\ParaCasa1.csproj|c:\\users\\marco\\desktop\\desaf2docs\\meuprojeto\\paracasa1\\livrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2404B7D1-FCF6-4041-851B-D94FEBDBCCED}|ParaCasa1\\ParaCasa1.csproj|solutionrelative:paracasa1\\livrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2404B7D1-FCF6-4041-851B-D94FEBDBCCED}|ParaCasa1\\ParaCasa1.csproj|C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\paracasa1\\livrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2404B7D1-FCF6-4041-851B-D94FEBDBCCED}|ParaCasa1\\ParaCasa1.csproj|solutionrelative:paracasa1\\livrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2404B7D1-FCF6-4041-851B-D94FEBDBCCED}|ParaCasa1\\ParaCasa1.csproj|C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\paracasa1\\cadlivrosuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2404B7D1-FCF6-4041-851B-D94FEBDBCCED}|ParaCasa1\\ParaCasa1.csproj|solutionrelative:paracasa1\\cadlivrosuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadLivrosUIL.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\ParaCasa1\\CadLivrosUIL.cs",
+              "RelativeDocumentMoniker": "ParaCasa1\\CadLivrosUIL.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\ParaCasa1\\CadLivrosUIL.cs",
+              "RelativeToolTip": "ParaCasa1\\CadLivrosUIL.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:50:52.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroBLL.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\ParaCasa1\\LivroBLL.cs",
+              "RelativeDocumentMoniker": "ParaCasa1\\LivroBLL.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\ParaCasa1\\LivroBLL.cs",
+              "RelativeToolTip": "ParaCasa1\\LivroBLL.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:51:31.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroDAL.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\ParaCasa1\\LivroDAL.cs",
+              "RelativeDocumentMoniker": "ParaCasa1\\LivroDAL.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\desaf2DOCS\\meuProjeto\\ParaCasa1\\LivroDAL.cs",
+              "RelativeToolTip": "ParaCasa1\\LivroDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:19:25.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
